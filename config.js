@@ -27,36 +27,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/maouk.store'
+global.sig = 'https://instagram.com/zallzall02'
 global.syt = 'https://youtube.com/'
-global.sgh = 'https://github.com/VamsesOfficial'
+global.sgh = 'https://github.com/rizalmhmd'
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6285172402754'
-global.swa = 'wa.me/6285172402754'
+global.sdc = 'https://wa.me/6281333154367'
+global.swa = 'wa.me/6281333154367'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '0851-7240-2754'
+global.pdana = '0813-3315-4367'
 global.povo = '-'
-global.pgopay = '0851-7240-2754'
-global.ppulsa = '0851-7240-2754'
-global.ppulsa2 = '-'
+global.pgopay = '0813-3315-4367'
+global.ppulsa = '0813-3315-4367'
+global.ppulsa2 = '0813-2723-8906'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6285172402754'
-global.namebot = 'HuraBots'
-global.nameown = 'Maouk'
+global.nomorbot = '6281327238906'
+global.nomorown = '6281333154367'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.nameown = '𝚉𝚊𝚕𝚕'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172402754'],
-  ['6285172402754'],
-  ['6285172402754'],
-  ['6285172402754', 'Maouk', true]
+  ['6281333154367', '𝚉𝚊𝚕𝚕', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -108,15 +105,15 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝚉𝚊𝚕𝚕'//nama group kalian
+global.wm = 'By 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' //Main Watermark
+global.wm2 = '𝚉𝚊𝚕𝚕'
+global.wm3 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | By 𝚉𝚊𝚕𝚕'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | ʙʏ ${global.nameown}`
+global.author = '𝚉𝚊𝚕𝚕' 
+global.packname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Februari 02 2023'
 
@@ -135,11 +132,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
+global.nameowner = '𝚉𝚊𝚕𝚕'
 global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.asalowner = 'Jawa Tengah, Wonosobo'
+global.nomorowner = 'wa.me/6281333154367'
+global.pacarowner = 'Hamba Allah'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -387,8 +384,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.stickauth = `𝚉𝚊𝚕𝚕`
 
 global.multiplier = 38 // The higher, The harder levelup
 
