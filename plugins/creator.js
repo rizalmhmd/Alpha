@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Mauk
-${htjava} *✉️ Nama RL* : Raka
+${htjava} *💌 Nama* : Rozz
+${htjava} *✉️ Nama RL* : Rizal
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : 2 Sma
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
-${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Kuningan, Jawa Barat
-${htjava} *❤️ Waifu* : Fubuki
+${htjava} *🎨 Umur* : Private 🥶
+${htjava} *🧮 Kelas* : Private 🥶
+${htjava} *🧩 Hobby* : Mangan Turu
+${htjava} *💬 Sifat* : Netral
+${htjava} *🗺️ Tinggal* : Indo, wsb, jateng
+${htjava} *❤️ Idola* : Yuzuriha Karen
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
